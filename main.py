@@ -12,7 +12,7 @@ from quiz import quiz_data
 logging.basicConfig(level=logging.INFO)
 
 # Замените "YOUR_BOT_TOKEN" на токен, который вы получили от BotFather
-API_TOKEN = '7890008278:AAHZeZjXozfuL0pbA5fGblLR7S_0aFMJpo4'
+API_TOKEN = ''
 
 # Объект бота
 bot = Bot(token=API_TOKEN)
